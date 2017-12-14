@@ -1,0 +1,42 @@
+*{margin: 0; padding: 0;}
+
+.card-deck-wrapper {
+	margin-bottom: -10px;
+}
+.navbar{
+	background: aliceblue;
+}
+.navbar-light .navbar-nav .nav-link {
+	line-height: 40px;
+	padding: 10px;
+	margin-left: 15px;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+	background: salmon;
+}
+.logo{
+	width: 50px;
+	height: 50px;
+}
+
+.timkiem{
+	margin-top: 10px;
+}
+
+
+.anhcho{
+	background:antiquewhite;
+	padding: 5px;
+}
+.bentrong{
+	background: aliceblue;
+	padding: 10px;
+}
+.anhcho1{
+	-webkit-clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+}
+.anhcho2{
+	-webkit-clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
+clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
+}
